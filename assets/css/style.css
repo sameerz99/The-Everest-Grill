@@ -688,9 +688,6 @@ body.nav-active { overflow: hidden; }
 
 .navbar .close-btn:is(:hover, :focus-visible) { color: var(--gold-crayola); }
 
-#logo {
-  font-size: 4rem;
-}
 
 .navbar-list {
   border-block-end: 1px solid var(--white-alpha-20);
